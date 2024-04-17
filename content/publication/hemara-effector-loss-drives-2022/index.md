@@ -45,12 +45,14 @@ abstract: A pandemic isolate of *Pseudomonas syringae* pv. actinidiae biovar 3 (
   into future kiwifruit cultivars.
 tags:
 - Pseudomonas syringae pv. actinidiae
+- Actinidia arguta
 - Kiwifruit
+- Type III effectors
 links:
 - name: URL
   url: https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1010542
 image:
-  caption: 'Angular necrotic lesions on Actinidia arguta leaves'
+  caption: 'Angular lesions on *Actinidia arguta* leaves.'
   focal_point: ""
   preview_only: false
 
