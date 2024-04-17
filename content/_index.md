@@ -54,40 +54,56 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: 'PhD in Biological Sciences'
+          company: 'University of Auckland'
+          company_url: 'https://www.auckland.ac.nz/en.html'
+          company_logo: uoa-logo
+          location: 'Tāmaki Makaurau, Auckland'
+          date_start: '2021-03-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
+          description: >-
+          * Examining effector requirements, redundancies, and repertoire refinement in the emergent kiwifruit pathogen *Pseudomonas syringae* pv. *actinidiae*.
+      
+          * Awarded a University of Auckland Doctoral Scholarship.
+              
+        - title: 'MSc in Biological Sciences'
+          company: 'University of Auckland'
+          company_url: 'https://www.auckland.ac.nz/en.html'
+          company_logo: uoa-logo
+          location: 'Tāmaki Makaurau, Auckland'
+          date_start: '2019-03-01'
+          date_end: '2020-05-01'
+          description: >-
+          * Identification of candidate *Pseudomonas syringae* pv. *actinidiae* effectors that trigger resistance in *Actinidia arguta*.
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          * Awarded a Zespri Innovation Scholarship.
+
+        - title: 'PGDipSci in Biological Sciences'
+          company: 'University of Auckland'
+          company_url: 'https://www.auckland.ac.nz/en.html'
+          company_logo: uoa-logo
+          location: 'Tāmaki Makaurau, Auckland'
+          date_start: '2018-03-01'
+          date_end: '2018-12-01'  
+          description: >-
+            * Awarded the Senior Frances Briggs Memorial Prize in Plant Sciences.
+
+            * Awarded the Janet Bain Mackay Memorial Prize.
+
+        - title: 'BSc in Biological Sciences'
+          company: 'University of Auckland'
+          company_url: 'https://www.auckland.ac.nz/en.html'
+          company_logo: uoa-logo
+          location: 'Tāmaki Makaurau, Auckland'
+          date_start: '2015-03-01'
+          date_end: '2017-12-01' 
+          description: >-
+          * First in Course for BIOSCI 321 - Plant Pathology.
+
+          * Tuākana Certificate of Merit for excellent scholastic achievement in STATS 201.
     design:
       columns: '2'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
+
   - block: collection
     content:
       title: Recent Publications
@@ -138,15 +154,3 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
----
