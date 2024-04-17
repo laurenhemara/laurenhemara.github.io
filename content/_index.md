@@ -45,6 +45,7 @@ sections:
       username: admin
 
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -100,6 +101,7 @@ sections:
       columns: '2'
 
   - block: collection
+    id: publications
     content:
       title: Recent Publications
       filters:
@@ -125,6 +127,7 @@ sections:
       flip_alt_rows: false
 
   - block: markdown
+    id: gallery
     content:
       title: Gallery
       subtitle: ''
