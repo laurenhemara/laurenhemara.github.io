@@ -148,8 +148,8 @@ sections:
           organization: University of Auckland
           organization_url: 
           title: 'BIOSCI 220: Quantitative Biology'
-           url: ''
-         - certificate_url: 
+          url: ''
+        - certificate_url: 
           date_end: ''
           date_start: '2021-01-25'
           description: 'Graduate Teaching Assistant.'
