@@ -150,9 +150,9 @@ sections:
           title: 'BIOSCI 220: Quantitative Biology'
           url: ''
         - certificate_url: 
-          date_end: ''
-          date_start: '2021-01-25'
-          description: 'Graduate Teaching Assistant responsible for lab design, delivery and marking.'
+          date_end: '2023-07-01'
+          date_start: '2023-01-25'
+          description: 'Graduate Teaching Assistant responsible for teaching lab design, delivery and marking.'
           icon: uoa-logo
           organization: University of Auckland
           organization_url: 
