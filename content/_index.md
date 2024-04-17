@@ -62,8 +62,8 @@ sections:
           date_start: '2021-03-01'
           date_end: ''
           description: |2-
-          * Examining effector requirements, redundancies, and repertoire refinement in the emergent kiwifruit pathogen *Pseudomonas syringae* pv. *actinidiae*.
-          * Awarded a University of Auckland Doctoral Scholarship.    
+            * Examining effector requirements, redundancies, and repertoire refinement in the emergent kiwifruit pathogen *Pseudomonas syringae* pv. *actinidiae*.
+            * Awarded a University of Auckland Doctoral Scholarship.    
         - title: MSc in Biological Sciences
           company: University of Auckland
           company_url: 'https://www.auckland.ac.nz/en.html'
@@ -72,8 +72,8 @@ sections:
           date_start: '2019-03-01'
           date_end: '2020-05-01'
           description: |2-
-          * Identification of candidate *Pseudomonas syringae* pv. *actinidiae* effectors that trigger resistance in *Actinidia arguta*.
-          * Awarded a Zespri Innovation Scholarship.
+            * Identification of candidate *Pseudomonas syringae* pv. *actinidiae* effectors that trigger resistance in *Actinidia arguta*.
+            * Awarded a Zespri Innovation Scholarship.
         - title: PGDipSci in Biological Sciences
           company: University of Auckland
           company_url: 'https://www.auckland.ac.nz/en.html'
@@ -92,8 +92,8 @@ sections:
           date_start: '2015-03-01'
           date_end: '2017-12-01' 
           description: |2-
-          * First in Course for BIOSCI 321 - Plant Pathology.
-          * Tuākana Certificate of Merit for excellent scholastic achievement in STATS 201.
+            * First in Course for BIOSCI 321 - Plant Pathology.
+            * Tuākana Certificate of Merit for excellent scholastic achievement in STATS 201.
     design:
       columns: '2'
 
