@@ -154,3 +154,4 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
+---
