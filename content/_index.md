@@ -142,8 +142,8 @@ sections:
       items:
         - certificate_url: 
           date_end: '2023-11-15'
-          date_start: '2022-03-01'
-          description: 'Graduate Teaching Assistant, delivering online and in-person teaching labs.'
+          date_start: '2021-07-01'
+          description: 'Graduate Teaching Assistant delivering online and in-person teaching labs.'
           icon: uoa-logo
           organization: University of Auckland
           organization_url: 
@@ -152,20 +152,11 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2021-01-25'
-          description: 'Graduate Teaching Assistant.'
+          description: 'Graduate Teaching Assistant responsible for lab design, delivery and marking.'
           icon: uoa-logo
           organization: University of Auckland
           organization_url: 
           title: 'BIOSCI 324: Plant Pathology & Symbiosis'
-          url: ''
-        - certificate_url: 
-          date_end: '2021-11-15'
-          date_start: '2021-07-01'
-          description: 'Teaching Assistant.'
-          icon: uoa-logo
-          organization: University of Auckland
-          organization_url: 
-          title: 'BIOSCI 220: Quantitative Biology'
           url: ''
     design:
       columns: '2'
