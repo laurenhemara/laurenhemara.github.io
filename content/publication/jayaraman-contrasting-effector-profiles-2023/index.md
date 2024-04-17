@@ -40,7 +40,4 @@ tags:
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/abs/10.1111/nph.18848
-image:
-  focal_point: ""
-  preview_only: false
 ---
