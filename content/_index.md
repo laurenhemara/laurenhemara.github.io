@@ -117,7 +117,7 @@ sections:
         - certificate_url: 
           date_end: '2023-11-15'
           date_start: '2021-07-01'
-          description: 'Graduate Teaching Assistant delivering online and in-person teaching labs.'
+          description: 'Graduate Teaching Assistant responsible for delivering online and in-person labs.'
           icon: uoa-logo
           organization: University of Auckland
           organization_url: 
@@ -126,7 +126,7 @@ sections:
         - certificate_url: 
           date_end: '2023-07-01'
           date_start: '2023-01-25'
-          description: 'Graduate Teaching Assistant responsible for teaching lab design, delivery and marking.'
+          description: 'Graduate Teaching Assistant responsible for lab design, delivery and marking.'
           icon: uoa-logo
           organization: University of Auckland
           organization_url: 
