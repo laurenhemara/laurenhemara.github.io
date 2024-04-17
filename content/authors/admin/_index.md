@@ -41,35 +41,6 @@ education:
     institution: University of Auckland
     year: 2018
 
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Skills & Interests
-    items:
-      - name: Pathogen biosurveillance
-        description: ''
-        icon: forest
-        icon_pack: custom
-      - name: Experimental evolution
-        description: ''
-        icon: agar
-        icon_pack: custom
-      - name: Quantifying virulence
-        description: ''
-        icon: flask
-        icon_pack: custom
-      - name: Bacterial genomics
-        description: ''
-        icon: dna
-        icon_pack: custom
-      - name: Bioinformatics training
-        description: ''
-        icon: r
-        icon_pack: custom
-      - name: Macro photography
-        description: ''
-        icon: photography
-        icon_pack: custom
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
