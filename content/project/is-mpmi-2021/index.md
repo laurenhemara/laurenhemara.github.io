@@ -1,5 +1,5 @@
 ---
-title: Four candidate avirulence effectors contribute to Psa3 recognition in *Actinidia arguta*
+title: Four candidate avirulence effectors contribute to Psa3 recognition in Actinidia arguta
 summary: This poster was presented at the [2021 IS-MPMI eSymposia](https://www.ismpmi.org/Events/Archives/2021Congress/Program/Pages/July.aspx) and gets a mention in the meeting review ['Molecular Mechanism & Structure - Zooming in on Plant Immunity'](https://apsjournals.apsnet.org/doi/full/10.1094/MPMI-08-21-0208-MR).
 tags:
   - Poster
