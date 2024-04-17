@@ -144,7 +144,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="flickr" >}}
     design:
       columns: '1'
 ---
