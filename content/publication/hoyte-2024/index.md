@@ -3,7 +3,7 @@ title: Investigating a New Psa Variant in New Zealand
 authors:
   - Stephen Hoyte
   - Jay Jayaraman
-  - Lauren Hemara
+  - admin
   - Magan Schipper
   - Peter Wood
   - Sergio Marshall
@@ -11,11 +11,12 @@ authors:
   - Linda Peacock
   - Joel Vanneste
 date: '2024-02-20'
+doi: ""
 publishDate: '2024-04-18T04:12:55.793852Z'
 publication_types:
 - article-journal
 publication: '*XI International Symposium on Kiwifruit*'
-abstract: 'A new genetic variant of the kiwifruit vine pathogen *Pseudomonas syringae* pv. actinidiae (Psa), the cause of
+abstract: A new genetic variant of the kiwifruit vine pathogen *Pseudomonas syringae* pv. actinidiae (Psa), the cause of
 bacterial canker in kiwifruit (*Actinidia* spp.), was identified in New Zealand during 2022. The variant, which is
 missing the hopF2 effector gene, was detected as part of routine testing of Psa isolates collected from two
 commercial orchards in New Zealand. A specific PCR primer was developed and the Psa variant was tested in a
@@ -31,7 +32,7 @@ canopy during predicted rainfall events in spring 2022. Leaves that developed ty
 and Psa was isolated and tested using the new primers. Freshly collected strains of Psa (259) were screened
 and the variant was detected in just 6.6% of these. Research findings to date suggest the newly emerged hopF2
 Psa variant is not significantly more pathogenic on 'Zesy002' and 'Zes008' following inoculation studies on leaves
-and stems of potted plants in containment glasshouses. On going monitoring and vigilance is recommended.'
+and stems of potted plants in containment glasshouses. On going monitoring and vigilance is recommended.
 tags:
 - Pseudomonas syringae pv. actinidiae
 - Genome biosurveillance
