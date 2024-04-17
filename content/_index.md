@@ -126,6 +126,50 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 
+- block: accomplishments
+    id: teaching
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Teaching'
+      subtitle:
+      # Date format: https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: 
+          date_end: '2023-11-15'
+          date_start: '2022-03-01'
+          description: 'Graduate Teaching Assistant, delivering online and in-person teaching labs.'
+          icon: uoa-logo
+          organization: University of Auckland
+          organization_url: 
+          title: 'BIOSCI 220: Quantitative Biology'
+          url: ''
+        - certificate_url: 
+          date_end: ''
+          date_start: '2021-01-25'
+          description: 'Graduate Teaching Assistant.'
+          icon: uoa-logo
+          organization: University of Auckland
+          organization_url: 
+          title: 'BIOSCI 324: Plant Pathology & Symbiosis'
+          url: ''
+        - certificate_url: 
+          date_end: '2021-11-15'
+          date_start: '2021-07-01'
+          description: 'Teaching Assistant.'
+          icon: uoa-logo
+          organization: University of Auckland
+          organization_url: 
+          title: 'BIOSCI 220: Quantitative Biology'
+          url: ''
+    design:
+      columns: '2'
+
   - block: markdown
     id: gallery
     content:
