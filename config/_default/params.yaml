@@ -11,6 +11,8 @@ appearance:
   font: minimal
   font_size: L
 
+color: green
+
 # SEO
 
 marketing:
