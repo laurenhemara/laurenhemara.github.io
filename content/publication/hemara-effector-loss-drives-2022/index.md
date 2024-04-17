@@ -55,6 +55,4 @@ image:
   caption: 'Angular lesions on *Actinidia arguta* leaves.'
   focal_point: ""
   preview_only: false
-
-projects: []
 ---

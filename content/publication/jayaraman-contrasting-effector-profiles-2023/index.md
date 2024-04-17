@@ -41,15 +41,6 @@ links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/abs/10.1111/nph.18848
 image:
-  alt_text: 'Why is Psa more virulent than Pfm? Timeline. 1) Which Psa genes are
-    required for virulence? Which Psa effector knockout strains aren't able to
-    infect kiwifruit plants as well as wild-type? 2) Does Pfm carry any genes
-    that trigger host immunity? Can any of Pfm's effectors reduce Psa's ability
-    to successfully infect kiwifruit plants? 3) Is host immunity the only reason
-    Pfm is a weak pathogen? Will knocking out Pfm genes that trigger host
-    immunity make it pathogenic? 4) Can we make Pfm more virulent by giving it
-    Psa effectors? Can any of Psa's effectors increase Pfm's ability to
-    successfully infect kiwifruit plants?'
   focal_point: ""
   preview_only: false
 ---

@@ -40,4 +40,7 @@ tags:
 links:
 - name: URL
   url: https://ami.journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.15250
+image:
+  focal_point: ""
+  preview_only: false
 ---
