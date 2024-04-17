@@ -24,7 +24,7 @@ competition assay on tissue cultured *A. chinensis* var. *chinensis* Hort16A and
 (Hayward) plantlets and found to out-compete wild-type Psa strains on Hort16A but not on Hayward. The
 competition assay was repeated using *A. chinensis* var. *chinensis* Zesy002 (commonly known as Gold3) and
 Zes008 (commonly known as Red19) tissue culture plantlets. The hopF2 Psa variant did not out-compete wild
-type Psa on 'Zesy002' but did on Zes008, although to a much lesser extent than on Hort16A. The two orchards
+type Psa on Zesy002 but did on Zes008, although to a much lesser extent than on Hort16A. The two orchards
 of interest, where the original hopF2 Psa variants were first detected, and nearby properties, had additional leaf
 samples collected to monitor the persistence and spread of the variant. Trap plants were also utilised to increase
 the recovery of Psa from the two orchards of interest by suspending potted Hayward plants beneath the vine
