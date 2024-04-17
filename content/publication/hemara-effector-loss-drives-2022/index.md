@@ -2,7 +2,7 @@
 title: Effector loss drives adaptation of Pseudomonas syringae pv. actinidiae biovar
   3 to Actinidia arguta
 authors:
-- Lauren Hemara
+- admin
 - Jay Jayaraman
 - Paul Sutherland
 - Mirco Montefiori

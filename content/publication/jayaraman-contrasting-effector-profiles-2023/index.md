@@ -4,7 +4,7 @@ title: Contrasting effector profiles between bacterial colonisers of kiwifruit r
 authors:
 - Jay Jayaraman
 - Minsoo Yoon
-- Lauren Hemara
+- admin
 - Deborah Bohne
 - Jibran Tahir
 - Ronan Chen

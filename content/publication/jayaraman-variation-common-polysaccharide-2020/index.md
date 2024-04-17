@@ -5,7 +5,7 @@ authors:
 - Jay Jayaraman
 - William Jones
 - Dawn Harvey
-- Lauren Hemara
+- admin
 - Honour McCann
 - Minsoo Yoon
 - Suzanne Warring

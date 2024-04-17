@@ -5,7 +5,7 @@ authors:
   - Minsoo Yoon
   - Sidney Scott
   - Abhishek Chatterjee
-  - Lauren Hemara
+  - admin
   - Ronan Chen
   - Tianchi Wang
   - Kerry Templeton
