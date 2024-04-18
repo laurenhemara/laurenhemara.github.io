@@ -73,7 +73,7 @@ I'm a doctoral candidate in the [University of Auckland's Joint Graduate School 
 
  I am passionate about understanding how plant pathogens emerge, evolve, and cause disease. In particular, I am interested in understanding how plant pathogens co-evolve with their hosts, both in the field and in experimental settings. 
  
- My PhD research focuses on using the kiwifruit pathogen *Pseudomonas syringae* pv. *actinidiae* to understand how plant pathogens evolve during incursions. I'm examining effector requirements, redundancies, and repertoire refinement across different kiwifruit hosts, using complementary approaches of 🌿 **orchard-based genome biosurveillance**  and 🧪 **effector knockout strain competition!**  
+ My PhD research focuses on using the kiwifruit pathogen *Pseudomonas syringae* pv. *actinidiae* to understand how plant pathogens evolve during incursions. I'm examining effector requirements, redundancies, and repertoire refinement across different kiwifruit hosts, using complementary approaches of **orchard-based genome biosurveillance**  and **effector knockout strain competition!**  
 
- I also dabble in macrophotography - you can see some of my more recent pictures in my [gallery](#gallery)!
+ In addition to my research experience, I've been a Graduate Teaching Assistant at the University of Auckland for several years, where I've taught practical laboratories on both plant pathology and statistical coding. I also dabble in macrophotography - you can see some of my more recent pictures in my [gallery](#gallery)!
 
