@@ -14,7 +14,7 @@ date: '2024-02-20'
 doi: ""
 publishDate: '2024-04-17T04:12:55.793852Z'
 publication_types:
-- article-journal
+- paper-conference
 publication: '*XI International Symposium on Kiwifruit*'
 abstract: 'A new genetic variant of the kiwifruit vine pathogen *Pseudomonas syringae* pv. actinidiae (Psa), the cause of
 bacterial canker in kiwifruit (*Actinidia* spp.), was identified in New Zealand during 2022. The variant, which is
