@@ -15,7 +15,7 @@ authors:
   - Susan Thomson
   - Andrew Allan
   - Cyril Brendolise
-  - David Changé
+  - David Chagné
   - Matthew Templeton
   - Jay Jayaraman
   - Jibran Tahir
