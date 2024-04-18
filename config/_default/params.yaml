@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  mode: light
+  theme_default: light
   font: minimal
-  color: teal
+  color: lhtheme
   font_size: M
 
 #appearance:
