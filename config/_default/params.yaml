@@ -6,16 +6,10 @@
 # Appearance
 
 appearance:
-  theme_default: light
+  theme_day: minimal
+  theme_night: minimal
   font: minimal
-  color: lhtheme
   font_size: M
-
-#appearance:
-#  theme_day: minimal
-#  theme_night: minimal
-#  font: minimal
-#  font_size: M
 
 # SEO
 
