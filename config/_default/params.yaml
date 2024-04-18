@@ -6,10 +6,16 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  mode: light
+  color: teal
   font: minimal
   font_size: M
+
+#appearance:
+#  theme_day: minimal
+#  theme_night: minimal
+#  font: minimal
+#  font_size: M
 
 # SEO
 
