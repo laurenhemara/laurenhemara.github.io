@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  mode: light
-  color: teal
+  theme_day: nord
+  theme_night: minimal
   font: minimal
   font_size: M
 
