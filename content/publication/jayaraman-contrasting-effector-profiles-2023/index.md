@@ -34,8 +34,9 @@ abstract: Testing effector knockout strains of the *Pseudomonas syringae* pv. ac
 tags:
 - Pseudomonas syringae pv. actinidiae
 - Pseudomonas syringae pv. actinidifoliorum
-- Kiwifruit
 - Type III effectors
+- Effector requirements
+- Kiwifruit
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/abs/10.1111/nph.18848

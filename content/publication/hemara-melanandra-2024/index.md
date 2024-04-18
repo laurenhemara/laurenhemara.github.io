@@ -29,8 +29,9 @@ abstract: '*Pseudomonas syringae* pv. actinidiae biovar 3 (Psa3) has decimated k
 tags:
 - Pseudomonas syringae pv. actinidiae
 - Genome biosurveillance
-- Kiwifruit
 - Type III effectors
+- Effector recognition
+- Kiwifruit
 #links:
 #- name: URL
 #  url: ""
