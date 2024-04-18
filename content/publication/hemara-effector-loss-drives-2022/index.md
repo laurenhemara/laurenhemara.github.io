@@ -46,7 +46,6 @@ abstract: A pandemic isolate of *Pseudomonas syringae* pv. actinidiae biovar 3 (
 tags:
 - Pseudomonas syringae pv. actinidiae
 - Genome biosurveillance
-- Actinidia arguta
 - Kiwifruit
 - Type III effectors
 links:
