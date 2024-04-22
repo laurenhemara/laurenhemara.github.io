@@ -6,7 +6,7 @@ tags:
 date: '2021-07-01'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://hemara.nz/uploads/is-mpmi-2021.pdf'
+external_link: 'https://hemara.nz/project/is-mpmi-2021/is-mpmi-2021.pdf'
 
 image:
   focal_point: Smart
