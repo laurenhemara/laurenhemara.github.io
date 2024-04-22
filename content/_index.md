@@ -160,6 +160,17 @@ sections:
       view: compact
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+  
+  - block: collection
+    id: talks
+    content:
+      title: Recent Talks
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
 
   - block: markdown
     id: gallery
