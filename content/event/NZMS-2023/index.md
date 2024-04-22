@@ -16,7 +16,7 @@ abstract: 'In 2010, an incursion of Pseudomonas syringae pv. actinidiae (Psa) in
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-11-21T00:00:00Z'
+publishDate: '2023-11-21'
 
 authors: []
 tags: []
