@@ -27,6 +27,7 @@ interests:
   - Niche adaptation
   - Experimental evolution
   - Comparative genomics
+  - Plant pathogens
 
 # Education to show in About widget
 education:
