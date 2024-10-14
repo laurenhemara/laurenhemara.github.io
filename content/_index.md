@@ -43,6 +43,18 @@ sections:
       title: Kia ora 👋
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+      
+  - block: collection
+    id: publications
+    content:
+      title: Recent Publications
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
 
   - block: experience
     id: education
@@ -100,6 +112,7 @@ sections:
     design:
       columns: '2'
 
+
   - block: accomplishments
     id: teaching
     content:
@@ -134,18 +147,6 @@ sections:
           url: ''
     design:
       columns: '2'
-
-  - block: collection
-    id: publications
-    content:
-      title: Recent Publications
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
 
   - block: portfolio
     id: projects
