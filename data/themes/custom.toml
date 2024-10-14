@@ -3,12 +3,12 @@ name = "custom"
 
 [light]
   # Primary
-  primary = "#74512D"
+  primary = "#5B99C2"
 
   # Menu
-  menu_primary = "#74512D"
+  menu_primary = "#5B99C2"
   menu_text = "#fff"
-  menu_text_active = "#5F6F52"
+  menu_text_active = "#136194"
   menu_title = "#fff"
 
   # Home sections
