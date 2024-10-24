@@ -15,7 +15,7 @@ authors:
   - Matthew Templeton
 
 date: '2024-10-22'
-doi: ""
+doi: "10.1101/2024.10.21.616179"
 publishDate: '2024-10-22T04:12:55.793852Z'
 publication_types:
 - article
@@ -27,7 +27,7 @@ tags:
 - Type III effectors
 - Effector recognition
 - Kiwifruit
-#links:
-#- name: URL
-#  url: 'https://events.zespri.com/ishs-kiwifruit2024/'
+links:
+- name: URL
+  url: 'https://www.biorxiv.org/content/10.1101/2024.10.21.616179v1/'
 ---
