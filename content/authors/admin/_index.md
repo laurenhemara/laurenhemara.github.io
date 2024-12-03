@@ -20,7 +20,7 @@ organizations:
     url: https://www.plantandfood.com/en-nz/staff/lauren-hemara
 
 # Short bio (displayed in user profile at end of posts)
-bio: Lauren Hemara is a Doctoral Candidate at the University of Auckland.
+bio: Lauren Hemara is a Postdoctoral Fellow at the University of Toronto.
 
 # Interests to show in About widget
 interests:
@@ -47,6 +47,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+- icon: fa-bluesky
+  icon_pack: fa-brands
+  link: https://bsky.app/profile/laurenhemara.bsky.social
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/LaurenHemara
