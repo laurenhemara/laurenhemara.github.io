@@ -10,7 +10,7 @@ last_name: Hemara
 superuser: true
 
 # Role/position/tagline
-role: Doctoral Candidate
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -32,6 +32,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in Biological Sciences
+    institution: University of Auckland
+    year: 2024
   - course: MSc in Biological Sciences
     institution: University of Auckland
     year: 2020
