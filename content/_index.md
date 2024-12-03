@@ -57,9 +57,9 @@ sections:
       view: citation
 
   - block: experience
-    id: education
+    id: experience
     content:
-      title: Education
+      title: Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -69,13 +69,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Postdoctoral Fellow
+          company: University of Toronto Scarborough
+          company_url: 'https://www.utsc.utoronto.ca/labs/microbiomemanipulationlab/'
+          company_logo: Utoronto_coa.svg
+          location: Toronto, Canada
+          date_start: '2024-11-25'
+          date_end: ''
+          description: |2-
+            * Examining tradeoffs between the production, storage, and in-soil application of candidate probiotics for agriculture.  
         - title: PhD in Biological Sciences
           company: University of Auckland
           company_url: 'https://www.auckland.ac.nz/en.html'
           company_logo: uoa-logo
           location: Tāmaki Makaurau, Auckland
           date_start: '2021-03-01'
-          date_end: ''
+          date_end: '2024-12-01'
           description: |2-
             * Examining effector requirements, redundancies, and repertoire refinement in the emergent kiwifruit pathogen *Pseudomonas syringae* pv. *actinidiae*.
             * Awarded a University of Auckland Doctoral Scholarship.    
