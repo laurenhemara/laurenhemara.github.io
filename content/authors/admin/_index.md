@@ -76,9 +76,9 @@ social:
 highlight_name: true
 ---
 
-I'm a doctoral candidate in the [University of Auckland's Joint Graduate School in Plant and Food Science](https://www.auckland.ac.nz/en/science/our-research/jgs-plant-and-food-science.html/), based at [Plant & Food Research](https://plantandfood.co.nz/).
+  I'm a Postdoctoral Fellow in the [Microbiome Manipulation Lab at UTSC](https://www.utsc.utoronto.ca/labs/microbiomemanipulationlab/).
 
  **I'm passionate about understanding microbial evolution and niche adaptation - both in the field and under controlled or experimental settings.**
- 
- My PhD research focuses on using the kiwifruit pathogen *Pseudomonas syringae* pv. *actinidiae* to understand how plant pathogens evolve during incursions. I'm examining effector requirements, redundancies, and repertoire refinement across different kiwifruit hosts, using complementary approaches of <mark>orchard-based genome biosurveillance</mark> and <mark>effector knockout strain competition!</mark>
+
+ My doctoral research used the kiwifruit pathogen *Pseudomonas syringae* pv. *actinidiae* to understand how plant pathogens evolve during incursions. Using this pathosystem, we examined effector requirements, redundancies, and repertoire refinement across different kiwifruit hosts, using complementary approaches of <mark>orchard-based genome biosurveillance</mark> and <mark>effector knockout strain competition!</mark>
 
