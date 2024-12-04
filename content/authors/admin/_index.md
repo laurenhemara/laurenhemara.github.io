@@ -51,7 +51,7 @@ social:
 - icon: bluesky
   icon_pack: fab
   link: https://bsky.app/profile/laurenhemara.bsky.social
-- icon: x
+- icon: twitter
   icon_pack: fab
   link: https://x.com/LaurenHemara
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
