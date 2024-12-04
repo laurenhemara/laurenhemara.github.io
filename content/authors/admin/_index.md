@@ -14,13 +14,11 @@ role: Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Auckland
-    url: https://profiles.auckland.ac.nz/lhem832
-  - name: Plant & Food Research
-    url: https://www.plantandfood.com/en-nz/staff/lauren-hemara
+  - name: University of Toronto Scarborough
+    url: https://www.utsc.utoronto.ca/labs/microbiomemanipulationlab/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Lauren Hemara is a Postdoctoral Fellow at the University of Toronto.
+bio: Lauren Hemara is a Postdoctoral Fellow at the University of Toronto Scarborough.
 
 # Interests to show in About widget
 interests:
@@ -62,12 +60,6 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-0316-3545
-- icon: github
-  icon_pack: fab
-  link: https://github.com/laurenhemara
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/laurenhemara/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -80,5 +72,7 @@ highlight_name: true
 
  **I'm passionate about understanding microbial evolution and niche adaptation - both in the field and under controlled or experimental settings.**
 
+ My current research seeks to examine tradeoffs between the production, storage, and in-soil application of candidate probiotics for agriculture. 
+ 
  My doctoral research used the kiwifruit pathogen *Pseudomonas syringae* pv. *actinidiae* to understand how plant pathogens evolve during incursions. Using this pathosystem, we examined effector requirements, redundancies, and repertoire refinement across different kiwifruit hosts, using complementary approaches of <mark>orchard-based genome biosurveillance</mark> and <mark>effector knockout strain competition!</mark>
 
