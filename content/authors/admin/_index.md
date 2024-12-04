@@ -51,10 +51,10 @@ social:
 - icon: fa-bluesky
   icon_pack: fab
   link: https://bsky.app/profile/laurenhemara.bsky.social
-- icon: fa-x-twitter
+- icon: x
   icon_pack: fab
-  link: https://twitter.com/LaurenHemara
-- icon: graduation-cap  # Alternatively, use icon pack
+  link: https://x.com/LaurenHemara
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.nz/citations?user=--BGP8oAAAAJ
 - icon: orcid
