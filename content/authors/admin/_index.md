@@ -49,9 +49,9 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: bluesky
-  icon_pack: custom
+  icon_pack: fab
   link: https://bsky.app/profile/laurenhemara.bsky.social
-- icon: twitter
+- icon: x-twitter
   icon_pack: fab
   link: https://x.com/LaurenHemara
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
