@@ -48,8 +48,8 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: square-bluesky
-  icon_pack: fab
+- icon: comment-dots
+  icon_pack: fa
   link: https://bsky.app/profile/laurenhemara.bsky.social
 - icon: x-twitter
   icon_pack: fab
