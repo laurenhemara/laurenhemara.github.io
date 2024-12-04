@@ -49,7 +49,7 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: fa-bluesky
-  icon_pack: fa-brands
+  icon_pack: fab
   link: https://bsky.app/profile/laurenhemara.bsky.social
 - icon: twitter
   icon_pack: fab
