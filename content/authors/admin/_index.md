@@ -74,4 +74,4 @@ highlight_name: true
 
  My current research seeks to examine tradeoffs between the production, storage, and in-soil application of candidate probiotics for agriculture. 
  
- My doctoral research used the kiwifruit pathogen *Pseudomonas syringae* pv. *actinidiae* to understand how plant pathogens evolve during incursions. Using this pathosystem, we examined effector requirements, redundancies, and repertoire refinement across different kiwifruit hosts, using complementary approaches of orchard-based genome biosurveillanceand and knockout strain competition!
+ My doctoral research used the kiwifruit pathogen *Pseudomonas syringae* pv. *actinidiae* to understand how plant pathogens evolve during incursions. Using this horticulturally-relevant pathosystem, we examined effector requirements, redundancies, and repertoire refinement across different hosts, using complementary approaches of orchard-based genome biosurveillance and knockout strain competition!
