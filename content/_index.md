@@ -83,7 +83,7 @@ sections:
           company_logo: uoa-logo
           location: Tāmaki Makaurau, Auckland
           date_start: '2021-03-01'
-          date_end: '2024-12-01'
+          date_end: '2025-01-01'
           description: |2-
             * Examining effector requirements, redundancies, and repertoire refinement in the emergent kiwifruit pathogen *Pseudomonas syringae* pv. *actinidiae*.
             * Awarded a University of Auckland Doctoral Scholarship.    

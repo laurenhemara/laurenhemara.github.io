@@ -32,7 +32,7 @@ education:
   courses:
   - course: PhD in Biological Sciences
     institution: University of Auckland
-    year: 2024
+    year: 2025
   - course: MSc in Biological Sciences
     institution: University of Auckland
     year: 2020
