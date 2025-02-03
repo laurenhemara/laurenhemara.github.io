@@ -1,5 +1,5 @@
 ---
-title: Diverse *Pseudomonas* species engage in beneficial and suppressive interactions with the kiwifruit pathogen Psa across *Actinidia* germplasm
+title: Diverse Pseudomonas species engage in beneficial and suppressive interactions with the kiwifruit pathogen Psa across Actinidia germplasm
 authors:
   - Haileigh Patterson
   - admin
