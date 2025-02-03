@@ -40,7 +40,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Kia ora 👋
+      title: Kia ora!
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       
@@ -81,7 +81,7 @@ sections:
           company: University of Auckland
           company_url: 'https://www.auckland.ac.nz/en.html'
           company_logo: uoa-logo
-          location: Tāmaki Makaurau, Auckland
+          location: Auckland, New Zealand
           date_start: '2021-03-01'
           date_end: '2025-01-01'
           description: |2-
@@ -91,7 +91,7 @@ sections:
           company: University of Auckland
           company_url: 'https://www.auckland.ac.nz/en.html'
           company_logo: uoa-logo
-          location: Tāmaki Makaurau, Auckland
+          location: Auckland, New Zealand
           date_start: '2019-03-01'
           date_end: '2020-05-01'
           description: |2-
@@ -101,7 +101,7 @@ sections:
           company: University of Auckland
           company_url: 'https://www.auckland.ac.nz/en.html'
           company_logo: uoa-logo
-          location: Tāmaki Makaurau, Auckland
+          location: Auckland, New Zealand
           date_start: '2018-03-01'
           date_end: '2018-12-01'  
           description: |2-
@@ -111,7 +111,7 @@ sections:
           company: University of Auckland
           company_url: 'https://www.auckland.ac.nz/en.html'
           company_logo: uoa-logo
-          location: Tāmaki Makaurau, Auckland
+          location: Auckland, New Zealand
           date_start: '2015-03-01'
           date_end: '2017-12-01' 
           description: |2-
