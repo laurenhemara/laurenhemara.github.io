@@ -23,5 +23,5 @@ tags:
 - Kiwifruit
 links:
 - name: URL
-  url: 'https://www.biorxiv.org/content/10.1101/2024.10.21.616179v1/'
+  url: 'https://www.biorxiv.org/content/10.1101/2025.01.31.635981v1'
 ---
