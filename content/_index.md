@@ -76,7 +76,7 @@ sections:
           location: Toronto, Canada
           date_start: '2024-11-25'
           date_end: ''
-          description: Examining tradeoffs between the production, storage, and in-soil application of candidate probiotics for agriculture.  
+          description: Evaluation and evolution of agricultural bioinoculants across production landscapes.
         - title: PhD in Biological Sciences
           company: University of Auckland
           company_url: 'https://www.auckland.ac.nz/en.html'
