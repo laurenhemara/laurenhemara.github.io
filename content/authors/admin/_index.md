@@ -70,7 +70,7 @@ highlight_name: true
 
   I'm a Postdoctoral Fellow in the [Microbiome Manipulation Lab at UTSC](https://www.utsc.utoronto.ca/labs/microbiomemanipulationlab/).
 
- **I'm passionate about understanding microbial evolution and niche adaptation - both in the field and in laboratory environments.**
+ **I'm passionate about understanding microbial evolution and niche adaptation - from laboratory environments to the field (and back again).**
 
  My current research seeks to examine tradeoffs between the production, storage, and field application of microbial bioinoculants for agriculture. 
  
