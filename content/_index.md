@@ -76,11 +76,11 @@ sections:
           location: Toronto, Canada
           date_start: '2024-11-25'
           date_end: ''
-          description: Evaluation and evolution of elite agricultural bioinoculants across production landscapes.
+          description: Evaluation and evolution of elite agricultural bioinoculants across production landscapes, as part of the [Genome Canada-funded BENEFIT project](https://www.queensu.ca/microbes-for-agriculture/).
         - title: PhD in Biological Sciences
           company: University of Auckland
           company_url: 'https://www.auckland.ac.nz/en.html'
-          company_logo: uoa_logo
+          company_logo: uoa_logo_shield
           location: Auckland, New Zealand
           date_start: '2021-03-01'
           date_end: '2025-01-01'
@@ -90,7 +90,7 @@ sections:
         - title: MSc in Biological Sciences
           company: University of Auckland
           company_url: 'https://www.auckland.ac.nz/en.html'
-          company_logo: uoa-logo
+          company_logo: uoa_logo_shield
           location: Auckland, New Zealand
           date_start: '2019-03-01'
           date_end: '2020-05-01'
@@ -100,7 +100,7 @@ sections:
         - title: PGDipSci in Biological Sciences
           company: University of Auckland
           company_url: 'https://www.auckland.ac.nz/en.html'
-          company_logo: uoa-logo
+          company_logo: uoa_logo_shield
           location: Auckland, New Zealand
           date_start: '2018-03-01'
           date_end: '2018-12-01'  
@@ -110,7 +110,7 @@ sections:
         - title: BSc in Biological Sciences
           company: University of Auckland
           company_url: 'https://www.auckland.ac.nz/en.html'
-          company_logo: uoa-logo
+          company_logo: uoa_logo_shield
           location: Auckland, New Zealand
           date_start: '2015-03-01'
           date_end: '2017-12-01' 
@@ -139,7 +139,7 @@ sections:
           date_end: '2023-11-15'
           date_start: '2021-07-01'
           description: 'Graduate Teaching Assistant responsible for delivering online and in-person labs.'
-          icon: uoa-logo
+          icon: uoa_logo_shield
           organization: University of Auckland
           organization_url: 
           title: 'BIOSCI 220: Quantitative Biology'
@@ -148,7 +148,7 @@ sections:
           date_end: '2023-07-01'
           date_start: '2023-01-25'
           description: 'Graduate Teaching Assistant responsible for lab design, delivery and marking.'
-          icon: uoa-logo
+          icon: uoa_logo_shield
           organization: University of Auckland
           organization_url: 
           title: 'BIOSCI 324: Plant Pathology & Symbiosis'
