@@ -72,7 +72,7 @@ sections:
         - title: Postdoctoral Fellow
           company: University of Toronto Scarborough
           company_url: 'https://www.utsc.utoronto.ca/labs/microbiomemanipulationlab/'
-          company_logo: Utoronto_coa
+          company_logo: uoft_shield_crop
           location: Toronto, Canada
           date_start: '2024-11-25'
           date_end: ''
