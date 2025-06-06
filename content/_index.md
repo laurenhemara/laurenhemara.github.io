@@ -76,11 +76,11 @@ sections:
           location: Toronto, Canada
           date_start: '2024-11-25'
           date_end: ''
-          description: Evaluation and evolution of agricultural bioinoculants across production landscapes.
+          description: Evaluation and evolution of elite agricultural bioinoculants across production landscapes, as part of the [Genome Canada-funded BENEFIT project](https://www.queensu.ca/microbes-for-agriculture/).
         - title: PhD in Biological Sciences
           company: University of Auckland
           company_url: 'https://www.auckland.ac.nz/en.html'
-          company_logo: uoa-logo
+          company_logo: uoa_logo
           location: Auckland, New Zealand
           date_start: '2021-03-01'
           date_end: '2025-01-01'
