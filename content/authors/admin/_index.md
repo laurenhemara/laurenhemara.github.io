@@ -24,8 +24,8 @@ bio: Lauren Hemara is a Postdoctoral Fellow at the University of Toronto Scarbor
 interests:
   - Niche adaptation
   - Experimental evolution
+  - Plant-microbe interactions
   - Comparative genomics
-  - Plant pathogens
 
 # Education to show in About widget
 education:
@@ -50,7 +50,7 @@ education:
 social:
 - icon: comment-dots
   icon_pack: fa
-  link: https://bsky.app/profile/laurenhemara.bsky.social
+  link: https://bsky.app/profile/hemara.nz
 - icon: x-twitter
   icon_pack: fab
   link: https://x.com/LaurenHemara
