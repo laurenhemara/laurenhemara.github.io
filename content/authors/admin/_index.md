@@ -86,26 +86,26 @@ work:
     date_start : '2024-11-25'
     date_end: ''
     summary: Evaluation and evolution of elite agricultural bioinoculants across production landscapes, as part of the [Genome Canada-funded BENEFIT project](https://www.queensu.ca/microbes-for-agriculture/).
-  - position: Graduate Teaching Assistant
+  - position: BIOSCI 220 Graduate Teaching Assistant
     company: University of Auckland
     company_logo: uoa_logo_shield
     location: Auckland, New Zealand
     date_end: '2023-11-15'
     date_start: '2021-07-01'
     summary: 'Graduate Teaching Assistant responsible for delivering online and in-person labs for BIOSCI 220: Quantitative Biology.'
-  - position: Graduate Teaching Assistant
+  - position: BIOSCI 324 Graduate Teaching Assistant
     company: University of Auckland
     company_logo: uoa_logo_shield
     location: Auckland, New Zealand
     date_end: '2023-07-01'
-    date_start: '2021-01-25'
+    date_start: '2023-03-01'
     summary: 'Graduate Teaching Assistant responsible for lab design and delivery for BIOSCI 324: Plant Pathology and Symbiosis.'
-  - position: Teaching Assistant
+  - position: BIOSCI 220 Teaching Assistant
     company: University of Auckland
     company_logo: uoa_logo_shield
     location: Auckland, New Zealand
-    date_end: '2023-11-15'
-    date_start: '2021-07-01'
+    date_end: '2021-07-01'
+    date_start: '2021-03-01'
     summary: 'Teaching Assistant responsible for supporting labs for BIOSCI 220: Quantitative Biology.'
 
 # Skills
