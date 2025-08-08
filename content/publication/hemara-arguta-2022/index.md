@@ -43,7 +43,7 @@ abstract: A pandemic isolate of *Pseudomonas syringae* pv. actinidiae biovar 3 (
   and virulence was not observed. These avirulence effectors can be used in turn to
   identify the first cognate resistance genes in *Actinidia* for breeding durable resistance
   into future kiwifruit cultivars.
-summary: Four  avirulence effectors contribute to Psa3 recognition in resistant *Actinidia arguta*, identified through genome biosurveillance and effector knockout screening.
+summary: Four  avirulence effectors contribute to Psa3 recognition in resistant kiwiberry, identified through genome biosurveillance and effector knockout screening.
 tags:
 - Pseudomonas syringae pv. actinidiae
 - Genome biosurveillance
