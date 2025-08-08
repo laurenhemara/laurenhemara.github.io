@@ -20,5 +20,6 @@ tags:
 - Genome biosurveillance
 - Plant microbiome
 - Kiwifruit
-url: 'https://www.biorxiv.org/content/10.1101/2025.01.31.635981v1'
+- name: URL
+  url: "https://www.biorxiv.org/content/10.1101/2025.01.31.635981v1"
 ---
