@@ -48,14 +48,11 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: comment-dots
-  icon_pack: fa
+- icon: bluesky
+  icon_pack: brands
   link: https://bsky.app/profile/hemara.nz
-- icon: x-twitter
-  icon_pack: fab
-  link: https://x.com/LaurenHemara
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.co.nz/citations?user=--BGP8oAAAAJ
 - icon: orcid
   icon_pack: ai
