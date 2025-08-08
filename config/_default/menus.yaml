@@ -16,3 +16,7 @@ main:
   - name: Gallery
     url: 'gallery/'
     weight: 4
+#  - name: Academic
+#    parent: tags
+#    url: tags/academic/
+#    weight: 10
