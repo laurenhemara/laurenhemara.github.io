@@ -50,7 +50,9 @@ tags:
 - Type III effectors
 - Effector recognition
 - Kiwifruit
-url: "http://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1010542"
+links:
+- name: URL
+  url: "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1010542"
 url_poster: "https://hemara.nz/project/is-mpmi-2021/is-mpmi-2021.pdf"
 image:
   caption: 'Angular lesions on *Actinidia arguta* leaves.'
