@@ -49,7 +49,7 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: "custom/bluesky"
-- icon_pack: custom
+  icon_pack: custom
   link: https://bsky.app/profile/hemara.nz
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
