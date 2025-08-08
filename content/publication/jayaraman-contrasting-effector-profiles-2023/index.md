@@ -31,6 +31,7 @@ abstract: Testing effector knockout strains of the *Pseudomonas syringae* pv. ac
   These largely target the plant immunity hub, RIN4. This comprehensive effector profiling
   revealed that Psa3 carries robust effector redundancy for a large portion of its
   effectors, covering a few functions critical to disease.
+summary: Effector knockout and knock-in assays in virulent Psa3 and avirulent Pfm identified a number of redundantly required effectors that converge on the RIN4 plant immunity hub.
 tags:
 - Pseudomonas syringae pv. actinidiae
 - Pseudomonas syringae pv. actinidifoliorum

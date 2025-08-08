@@ -34,6 +34,7 @@ abstract: Summary The common polysaccharide antigen (CPA) of the lipopolysacchar
   *P. syringae* and *P. viridiflava* isolates displayed a phylogenetic history incongruent
   with core gene phylogeny but correlates with previously reported tailocin sensitivity,
   suggesting a functional relationship between LPS structure and tailocin susceptibility.
+summary: The TET operon determines the variability of LPS profiles in Psa, which is in turn correlated with tailocin susceptibility.
 tags:
 - Pseudomonas syringae pv. actinidiae
 - Pseudomonas syringae pv. actinidifoliorum
