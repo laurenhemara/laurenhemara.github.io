@@ -46,37 +46,34 @@ education:
     location: Auckland, New Zealand
     date_start: '2021-03-01'
     date_end: '2025-01-01'
-    description: |2-
+    summary: |2-
             * Examining effector requirements, redundancies, and repertoire refinement in the emergent kiwifruit pathogen *Pseudomonas syringae* pv. *actinidiae*.
             * Awarded a University of Auckland Doctoral Scholarship.   
   - area: MSc in Biological Sciences
     institution: University of Auckland
     year: 2020
-    company_logo: uoa_logo_shield
     location: Auckland, New Zealand
     date_start: '2019-03-01'
     date_end: '2020-05-01'
-    description: |2-
+    summary: |2-
             * Identification of candidate *Pseudomonas syringae* pv. *actinidiae* effectors that trigger resistance in *Actinidia arguta*.
             * Awarded a Zespri Innovation Scholarship.
   - area: PGDipSci in Biological Sciences
     institution: University of Auckland
     year: 2019
-    company_logo: uoa_logo_shield
     location: Auckland, New Zealand
     date_start: '2018-03-01'
     date_end: '2018-12-01'  
-    description: |2-
+    summary: |2-
             * Awarded the Senior Frances Briggs Memorial Prize in Plant Sciences.
             * Awarded the Janet Bain Mackay Memorial Prize.
   - area: BSc in Biological Sciences
     institution: University of Auckland
     year: 2018
-    company_logo: uoa_logo_shield
     location: Auckland, New Zealand
     date_start: '2015-03-01'
     date_end: '2017-12-01' 
-    description: |2-
+    summary: |2-
             * First in Course for BIOSCI 321 - Plant Pathology.
             * Tuākana Certificate of Merit for excellent scholastic achievement in STATS 201.
 
