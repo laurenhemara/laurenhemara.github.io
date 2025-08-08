@@ -8,11 +8,11 @@ main:
     url: '#about'
     weight: 1
   - name: Publications
-    url: '#publication'
+    url: '#papers'
     weight: 2
   - name: Experience
-    url: '#experience'
+    url: 'experience/'
     weight: 3
   - name: Gallery
-    url: '#gallery'
+    url: 'gallery/'
     weight: 4
