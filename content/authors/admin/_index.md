@@ -48,7 +48,7 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: 'custom/bluesky'
+- icon: "custom/bluesky"
   link: https://bsky.app/profile/hemara.nz
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
