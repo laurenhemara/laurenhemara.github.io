@@ -43,15 +43,42 @@ education:
   - area: PhD in Biological Sciences
     institution: University of Auckland
     year: 2025
+    location: Auckland, New Zealand
+    date_start: '2021-03-01'
+    date_end: '2025-01-01'
+    description: |2-
+            * Examining effector requirements, redundancies, and repertoire refinement in the emergent kiwifruit pathogen *Pseudomonas syringae* pv. *actinidiae*.
+            * Awarded a University of Auckland Doctoral Scholarship.   
   - area: MSc in Biological Sciences
     institution: University of Auckland
     year: 2020
+    company_logo: uoa_logo_shield
+    location: Auckland, New Zealand
+    date_start: '2019-03-01'
+    date_end: '2020-05-01'
+    description: |2-
+            * Identification of candidate *Pseudomonas syringae* pv. *actinidiae* effectors that trigger resistance in *Actinidia arguta*.
+            * Awarded a Zespri Innovation Scholarship.
   - area: PGDipSci in Biological Sciences
     institution: University of Auckland
     year: 2019
+    company_logo: uoa_logo_shield
+    location: Auckland, New Zealand
+    date_start: '2018-03-01'
+    date_end: '2018-12-01'  
+    description: |2-
+            * Awarded the Senior Frances Briggs Memorial Prize in Plant Sciences.
+            * Awarded the Janet Bain Mackay Memorial Prize.
   - area: BSc in Biological Sciences
     institution: University of Auckland
     year: 2018
+    company_logo: uoa_logo_shield
+    location: Auckland, New Zealand
+    date_start: '2015-03-01'
+    date_end: '2017-12-01' 
+    description: |2-
+            * First in Course for BIOSCI 321 - Plant Pathology.
+            * Tuākana Certificate of Merit for excellent scholastic achievement in STATS 201.
 
 #education:
 #  - area: PhD Artificial Intelligence
@@ -65,28 +92,35 @@ education:
 #      url: 'https://example.com'
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - position: Postdoctoral Fellow
+    company: University of Toronto Scarborough
+    company_url: 'https://www.utsc.utoronto.ca/labs/microbiomemanipulationlab/'
+    company_logo: uoft_shield_crop
+    location: Toronto, Canada
+    date_start : '2024-11-25'
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    summary: Evaluation and evolution of elite agricultural bioinoculants across production landscapes, as part of the [Genome Canada-funded BENEFIT project](https://www.queensu.ca/microbes-for-agriculture/).
+  - position: Graduate Teaching Assistant
+    company: University of Auckland
+    company_logo: uoa_logo_shield
+    location: Auckland, New Zealand
+    date_end: '2023-11-15'
+    date_start: '2021-07-01'
+    summary: 'Graduate Teaching Assistant responsible for delivering online and in-person labs for BIOSCI 220: Quantitative Biology.'
+  - position: Graduate Teaching Assistant
+    company: University of Auckland
+    company_logo: uoa_logo_shield
+    location: Auckland, New Zealand
+    date_end: '2023-07-01'
+    date_start: '2021-01-25'
+    summary: 'Graduate Teaching Assistant responsible for lab design and delivery for BIOSCI 324: Plant Pathology and Symbiosis.'
+  - position: Teaching Assistant
+    company: University of Auckland
+    company_logo: uoa_logo_shield
+    location: Auckland, New Zealand
+    date_end: '2023-11-15'
+    date_start: '2021-07-01'
+    summary: 'Teaching Assistant responsible for supporting labs for BIOSCI 220: Quantitative Biology.'
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
