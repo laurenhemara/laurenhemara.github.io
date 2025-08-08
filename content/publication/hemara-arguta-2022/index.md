@@ -58,7 +58,7 @@ image:
   caption: 'Angular lesions on *Actinidia arguta* leaves.'
   focal_point: ""
   preview_only: false
-  
+featured: true
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: ''
 #url_project: ''
