@@ -75,7 +75,7 @@ education:
     date_end: '2017-12-01' 
     summary: |2-
       - First in Course for BIOSCI 321 - Plant Pathology.
-      - Tuākana Certificate of Merit for excellent scholastic achievement in STATS 201.
+      - Awarded a Tuākana Certificate of Merit for excellent scholastic achievement in STATS 201.
 
 work:
   - position: Postdoctoral Fellow
@@ -113,13 +113,13 @@ work:
     date_end: '2020-11-01'
     date_start: '2021-02-01'
     summary: 'Responsible for managing content across internal and external websites, including the launch of the [environmental data hub](https://www.waikatoregion.govt.nz/environment/envirohub/).'
-  - position: Research Internship
+  - position: Internship
     company: Plant & Food Research
     location: Auckland, New Zealand
     date_end: '2018-11-01'
     date_start: '2019-03-01'
     summary: 'Genome biosurveillance of Psa3 in New Zealand kiwifruit orchards.'
-  - position: Research Internship
+  - position: Internship
     company: Plant & Food Research
     location: Auckland, New Zealand
     date_end: '2017-11-01'
