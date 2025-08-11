@@ -106,7 +106,7 @@ work:
     location: Auckland, New Zealand
     date_end: '2021-07-01'
     date_start: '2021-03-01'
-    summary: 'Teaching Assistant responsible for supporting labs for BIOSCI 220: Quantitative Biology.'
+    summary: 'Teaching Assistant supporting BIOSCI 220: Quantitative Biology labs.'
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
