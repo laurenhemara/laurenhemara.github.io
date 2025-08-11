@@ -55,14 +55,18 @@ education:
     location: Auckland, New Zealand
     date_start: '2019-03-01'
     date_end: '2020-05-01'
-    summary: Identification of candidate *Pseudomonas syringae* pv. *actinidiae* effectors that trigger resistance in *Actinidia arguta*.
+    summary: |2-
+      - Identification of candidate *Pseudomonas syringae* pv. *actinidiae* effectors that trigger resistance in *Actinidia arguta*.
+      - Awarded a Zespri Innovation Scholarship.
   - area: PGDipSci in Biological Sciences
     institution: University of Auckland
     year: 2019
     location: Auckland, New Zealand
     date_start: '2018-03-01'
     date_end: '2018-12-01'  
-    summary: Awarded the Senior Frances Briggs Memorial Prize in Plant Sciences and the Janet Bain Mackay Memorial Prize.
+    summary: |2-
+      - Awarded the Senior Frances Briggs Memorial Prize in Plant Sciences.
+      - Awarded the Janet Bain Mackay Memorial Prize.
   - area: BSc in Biological Sciences
     institution: University of Auckland
     year: 2018
