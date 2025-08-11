@@ -124,7 +124,7 @@ work:
     location: Auckland, New Zealand
     date_end: '2017-11-01'
     date_start: '2018-03-01'
-    summary: | 2-
+    summary: |2-
       - Genome biosurveillance of Psa3 in New Zealand kiwifruit orchards.
       - Awarded a Ngā Toa Ngaki Kai scholarship.
   - position: Internship
