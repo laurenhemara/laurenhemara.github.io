@@ -81,7 +81,7 @@ education:
 
 work:
   - position: Postdoctoral Fellow
-    company: University of Toronto Scarborough
+    company_name: University of Toronto Scarborough
     company_url: 'https://www.utsc.utoronto.ca/labs/microbiomemanipulationlab/'
     company_logo: uoft_shield_crop
     location: Toronto, Canada
@@ -89,40 +89,40 @@ work:
     date_end: ''
     summary: Evaluation and evolution of elite agricultural bioinoculants across production landscapes, as part of the [Genome Canada-funded BENEFIT project](https://www.queensu.ca/microbes-for-agriculture/).
   - position: BIOSCI 220 Graduate Teaching Assistant
-    company: University of Auckland
+    company_name: University of Auckland
     company_logo: uoa_logo_shield
     location: Auckland, New Zealand
     date_end: '2023-11-15'
     date_start: '2021-07-01'
     summary: 'Graduate Teaching Assistant responsible for delivering online and in-person labs for BIOSCI 220: Quantitative Biology.'
   - position: BIOSCI 324 Graduate Teaching Assistant
-    company: University of Auckland
+    company_name: University of Auckland
     company_logo: uoa_logo_shield
     location: Auckland, New Zealand
     date_end: '2023-07-01'
     date_start: '2023-03-01'
     summary: 'Graduate Teaching Assistant responsible for lab design and delivery for BIOSCI 324: Plant Pathology and Symbiosis.'
   - position: BIOSCI 220 Teaching Assistant
-    company: University of Auckland
+    company_name: University of Auckland
     company_logo: uoa_logo_shield
     location: Auckland, New Zealand
     date_end: '2021-07-01'
     date_start: '2021-03-01'
     summary: 'Teaching Assistant supporting BIOSCI 220: Quantitative Biology labs.'
   - position: Internship
-    company: Waikato Regional Council
+    company_name: Waikato Regional Council
     location: Hamilton, New Zealand
     date_end: '2020-11-01'
     date_start: '2021-02-01'
     summary: 'Responsible for managing content across internal and external websites, including the launch of the [environmental data hub](https://www.waikatoregion.govt.nz/environment/envirohub/).'
   - position: Internship
-    company: Plant & Food Research
+    company_name: Plant & Food Research
     location: Auckland, New Zealand
     date_end: '2018-11-01'
     date_start: '2019-03-01'
     summary: 'Genome biosurveillance of Psa3 in New Zealand kiwifruit orchards.'
   - position: Internship
-    company: Plant & Food Research
+    company_name: Plant & Food Research
     location: Auckland, New Zealand
     date_end: '2017-11-01'
     date_start: '2018-03-01'
@@ -130,13 +130,13 @@ work:
       - Genome biosurveillance of Psa3 in New Zealand kiwifruit orchards.
       - Awarded a Ngā Toa Ngaki Kai scholarship.
   - position: Internship
-    company: Waikato Regional Council
+    company_name: Waikato Regional Council
     location: Hamilton, New Zealand
     date_end: '2016-11-01'
     date_start: '2017-02-01'
     summary: 'Responsible for managing content across internal and external websites, including the migration of the flagship [Waikato Regional Council](https://www.waikatoregion.govt.nz/) and [Envirolink](https://www.envirolink.govt.nz/) websites to a new content management system.'
   - position: Internship
-    company: Waikato Regional Council
+    company_name: Waikato Regional Council
     location: Hamilton, New Zealand
     date_end: '2015-11-01'
     date_start: '2016-02-01'
