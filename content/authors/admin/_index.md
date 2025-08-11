@@ -32,6 +32,8 @@ profiles:
     url: https://scholar.google.co.nz/citations?user=--BGP8oAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0000-0003-0316-3545
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/laurenhemara/
 
 interests:
   - Niche adaptation
