@@ -112,34 +112,34 @@ work:
   - position: Internship
     company_name: Waikato Regional Council
     location: Hamilton, New Zealand
-    date_end: '2020-11-01'
-    date_start: '2021-02-01'
+    date_start: '2020-11-01'
+    date_end: '2021-02-01'
     summary: 'Responsible for managing content across internal and external websites, including the launch of the [environmental data hub](https://www.waikatoregion.govt.nz/environment/envirohub/).'
   - position: Internship
     company_name: Plant & Food Research
     location: Auckland, New Zealand
-    date_end: '2018-11-01'
-    date_start: '2019-03-01'
+    date_start: '2018-11-01'
+    date_end: '2019-03-01'
     summary: 'Genome biosurveillance of Psa3 in New Zealand kiwifruit orchards.'
   - position: Internship
     company_name: Plant & Food Research
     location: Auckland, New Zealand
-    date_end: '2017-11-01'
-    date_start: '2018-03-01'
+    date_start: '2017-11-01'
+    date_end: '2018-03-01'
     summary: |2-
       - Genome biosurveillance of Psa3 in New Zealand kiwifruit orchards.
       - Awarded a Ngā Toa Ngaki Kai scholarship.
   - position: Internship
     company_name: Waikato Regional Council
     location: Hamilton, New Zealand
-    date_end: '2016-11-01'
-    date_start: '2017-02-01'
+    date_start: '2016-11-01'
+    date_end: '2017-02-01'
     summary: 'Responsible for managing content across internal and external websites, including the migration of the flagship [Waikato Regional Council](https://www.waikatoregion.govt.nz/) and [Envirolink](https://www.envirolink.govt.nz/) websites to a new content management system.'
   - position: Internship
     company_name: Waikato Regional Council
     location: Hamilton, New Zealand
-    date_end: '2015-11-01'
-    date_start: '2016-02-01'
+    date_start: '2015-11-01'
+    date_end: '2016-02-01'
     summary: 'Responsible for managing content across internal and external websites.'
 
 # Skills
