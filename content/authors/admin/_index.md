@@ -94,22 +94,21 @@ work:
     location: Auckland, New Zealand
     date_end: '2023-11-15'
     date_start: '2022-03-01'
-    summary: 'Graduate Teaching Assistant responsible for delivering online and in-person labs for BIOSCI 220: Quantitative Biology.'
+    summary: 'Graduate Teaching Assistant responsible for delivering online and in-person labs for BIOSCI 220: Quantitative Biology (4 semesters).'
   - position: BIOSCI 324 Graduate Teaching Assistant
     company_name: University of Auckland
     company_logo: uoa_logo_shield
     location: Auckland, New Zealand
     date_end: '2023-07-01'
     date_start: '2023-03-01'
-    summary: 'Graduate Teaching Assistant responsible for lab design and delivery for BIOSCI 324: Plant Pathology and Symbiosis.'
+    summary: 'Graduate Teaching Assistant responsible for lab design and delivery for BIOSCI 324: Plant Pathology and Symbiosis (1 semester).'
   - position: BIOSCI 220 Teaching Assistant
     company_name: University of Auckland
     company_logo: uoa_logo_shield
     location: Auckland, New Zealand
     date_start: '2021-07-01'
     date_end: '2021-11-01'
-    summary: 'Teaching Assistant supporting BIOSCI 220: Quantitative Biology labs.'
-  - position: Internship
+    summary: 'Teaching Assistant supporting BIOSCI 220: Quantitative Biology labs (1 semester).'
     company_name: Waikato Regional Council
     location: Hamilton, New Zealand
     date_start: '2020-11-01'
