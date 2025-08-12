@@ -93,7 +93,7 @@ work:
     company_logo: uoa_logo_shield
     location: Auckland, New Zealand
     date_end: '2023-11-15'
-    date_start: '2021-07-01'
+    date_start: '2022-03-01'
     summary: 'Graduate Teaching Assistant responsible for delivering online and in-person labs for BIOSCI 220: Quantitative Biology.'
   - position: BIOSCI 324 Graduate Teaching Assistant
     company_name: University of Auckland
@@ -106,8 +106,8 @@ work:
     company_name: University of Auckland
     company_logo: uoa_logo_shield
     location: Auckland, New Zealand
-    date_end: '2021-07-01'
-    date_start: '2021-03-01'
+    date_start: '2021-07-01'
+    date_end: '2021-11-01'
     summary: 'Teaching Assistant supporting BIOSCI 220: Quantitative Biology labs.'
   - position: Internship
     company_name: Waikato Regional Council
