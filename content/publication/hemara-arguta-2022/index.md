@@ -3,20 +3,20 @@ title: Effector loss drives adaptation of Pseudomonas syringae pv. actinidiae bi
   3 to Actinidia arguta
 authors:
 - admin
-- Jay Jayaraman
-- Paul Sutherland
-- Mirco Montefiori
-- Saadiah Arshed
-- Abhishek Chatterjee
-- Ronan Chen
-- Mark Andersen
-- Carl Mesarich
-- Otto van der Linden
-- Minsoo Yoon
-- Magan Schipper
-- Joel Vanneste
-- Cyril Brendolise
-- Matthew Templeton
+- "Jay Jayaraman"
+- "Paul Sutherland"
+- "Mirco Montefiori"
+- "Saadiah Arshed"
+- "Abhishek Chatterjee"
+- "Ronan Chen"
+- "Mark Andersen"
+- "Carl Mesarich"
+- "Otto van der Linden"
+- "Minsoo Yoon"
+- "Magan Schipper"
+- "Joel Vanneste"
+- "Cyril Brendolise"
+- "Matthew Templeton"
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
