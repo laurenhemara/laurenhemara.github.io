@@ -18,8 +18,8 @@ sections:
       #button:
       #  text: Download CV
       #  url: uploads/resume.pdf
-    design:
-      css_class: hbx-bg-gradient
+    #design:
+    #  css_class: hbx-bg-gradient
       #background:
         #color: white
         #image:
@@ -50,16 +50,19 @@ sections:
     design:
       view: article-grid
       columns: 2
+
   - block: collection
     content:
       title: Recent Publications
       text: ""
+      count: 3
       filters:
         folders:
           - publication
         exclude_featured: false
     design:
       view: citation
+      columns: '1'
   #- block: collection
   #  id: talks
   #  content:
