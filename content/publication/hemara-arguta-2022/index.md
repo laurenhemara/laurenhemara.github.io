@@ -18,8 +18,8 @@ authors:
 - Cyril Brendolise
 - Matthew Templeton
 author_notes:
-- "L.H. and J.J. share first authorship"
-- "L.H. and J.J. share first authorship"
+- "Equal contribution"
+- "Equal contribution"
 date: '2022-05-01'
 publishDate: '2024-04-17T04:12:55.782702Z'
 publication_types: ["article-journal"]

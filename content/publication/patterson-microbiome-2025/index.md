@@ -6,8 +6,8 @@ authors:
   - Matthew Templeton
   - Jay Jayaraman
 author_notes:
-- "H.P. and L.H. share first authorship"
-- "H.P. and L.H. share first authorship"
+- "Equal contribution"
+- "Equal contribution"
 date: '2025-02-03'
 doi: "10.1101/2025.01.31.635981"
 publishDate: '2025-02-03T04:12:55.793852Z'
