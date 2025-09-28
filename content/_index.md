@@ -63,7 +63,7 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: compact
+      view: list
       columns: '1'
       css_style: 'background-color: #F7F7F7;'
  
@@ -77,7 +77,7 @@ sections:
       - flickr
     design:
       columns: '1'
-      #view: showcase
+      view: showcase
  
  #- block: collection
   #  id: talks

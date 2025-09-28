@@ -8,7 +8,7 @@ cms_exclude: true
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: list
+view: citation
 
 citation_style: apa
 
