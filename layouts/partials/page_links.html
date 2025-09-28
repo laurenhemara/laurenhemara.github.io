@@ -2,7 +2,10 @@
 {{ $page := .page }}
 {{ $link := "" }}
 
-{{/* ***** TODO: Deprecate `url_preprint` in favour of `url_pdf` given there's now a dedicated "Preprint" pub. type. ***** */}}
+{{/*
+  Add icon to Preprint link (was missing an icon in the original code)
+  fa-solid fa-file-pdf is used for consistency with the PDF button.
+*/}}
 {{ with $page.Params.url_preprint }}
   {{ $resource := $page.Resources.GetMatch . }}
   {{ if $resource }}
@@ -11,9 +14,11 @@
     {{ $link = . | relURL }}
   {{ end }}
 <a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
-  {{ i18n "btn_preprint" }}
+  <i class="fa-solid fa-file-pdf"></i> {{ i18n "btn_preprint" }}
 </a>
 {{ end }}
+
+{{/* The PDF logic is kept the same, ensuring the fa-solid fa-file-pdf icon is present. */}}
 {{ $pdf := "" }}
 {{ $resource := $page.Resources.GetMatch (printf "%s.pdf" $page.File.ContentBaseName) }}
 {{ with $resource }}
@@ -31,11 +36,14 @@
   <i class="fa-solid fa-asterisk"></i> {{ i18n "btn_cite" }}
 </a>
 {{ end }}
+
+{{/* The DOI logic is kept the same, ensuring the ai ai-doi icon is present. */}}
 {{ with $page.Params.doi }}
 <a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="https://doi.org/{{ . }}" target="_blank" rel="noopener">
   <i class="ai ai-doi"></i> DOI
 </a>
 {{ end }}
+
 {{ with $page.Params.url_pdf }}
 <a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ . }}" target="_blank" rel="noopener">
   <i class="fa-solid fa-file-pdf"></i> {{ i18n "btn_pdf" }}

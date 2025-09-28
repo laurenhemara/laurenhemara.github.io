@@ -1,16 +1,16 @@
 /* Hugo Blox color theme: GREEN */
 :root {
   /* Green Primary Palette */
-  --hb-primary-50-rgb: 247 249 238;
-  --hb-primary-100-rgb: 236 240 216;
-  --hb-primary-200-rgb: 217 227 181;
-  --hb-primary-300-rgb: 189 204 135;
-  --hb-primary-400-rgb: 147 167 85;
-  --hb-primary-500-rgb: 133 156 62;
-  --hb-primary-600-rgb: 104 126 43;
-  --hb-primary-700-rgb: 81 99 35;
-  --hb-primary-800-rgb: 64 78 27;
-  --hb-primary-900-rgb: 53 64 24;
-  --hb-primary-950-rgb: 26 31 11;
+  --hb-primary-50: 247 249 238;
+  --hb-primary-100: 236 240 216;
+  --hb-primary-200: 217 227 181;
+  --hb-primary-300: 189 204 135;
+  --hb-primary-400: 147 167 85;
+  --hb-primary-500: 133 156 62;
+  --hb-primary-600: 104 126 43;
+  --hb-primary-700: 81 99 35;
+  --hb-primary-800: 64 78 27;
+  --hb-primary-900: 53 64 24;
+  --hb-primary-950: 26 31 11;
   --hb-nav-bg: #859c3e;
 }
