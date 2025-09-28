@@ -27,7 +27,7 @@ sections:
         #color: white
         image:
         #  # Add your image background to `assets/media/`.
-         filename: gradient.jpg
+         filename: green.svg
         # filters:
         #    brightness: 1.0
         # size: cover
