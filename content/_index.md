@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "2rem"
+  spacing: "3rem"
 
 sections:
   - block: resume-biography-3
@@ -55,7 +55,7 @@ sections:
 
   - block: collection
     content:
-      title: Recent Publications
+      title: ""
       text: ""
       count: 3
       filters:
