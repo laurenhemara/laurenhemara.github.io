@@ -47,7 +47,7 @@ education:
     year: 2025
     location: Auckland, New Zealand
     logo: /logo/uoa_logo_shield.svg
-        date_start: '2021-03-01'
+    date_start: '2021-03-01'
     date_end: '2025-01-01'
     summary: |2-
       - [Examining effector requirements, redundancies, and repertoire refinement in the emergent kiwifruit pathogen *Pseudomonas syringae* pv. *actinidiae*](https://researchspace.auckland.ac.nz/items/409ac923-e000-4531-86e8-eccafdd20814).
