@@ -64,7 +64,7 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: list
+      view: citation
       columns: '1'
       css_style: 'background-color: #F7F7F7;'
   #- block: collection
