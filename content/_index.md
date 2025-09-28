@@ -18,9 +18,12 @@ sections:
       #button:
       #  text: Download CV
       #  url: uploads/resume.pdf
-    #design:
-    #  css_class: hbx-bg-gradient
-      #background:
+    design:
+      background:
+        gradient_start: '#4bb4e3'
+        gradient_end: '#2b94c3'
+        gradient_angle: 180
+        text_color_light: true
         #color: white
         #image:
         #  # Add your image background to `assets/media/`.
