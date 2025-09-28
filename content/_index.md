@@ -66,7 +66,18 @@ sections:
       view: compact
       columns: '1'
       css_style: 'background-color: #F7F7F7;'
-  #- block: collection
+ 
+  - block: markdown
+    id: gallery
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="flickr" >}}
+    design:
+      columns: '1'
+ 
+ #- block: collection
   #  id: talks
   #  content:
   #    title: Recent & Upcoming Talks
