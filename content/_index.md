@@ -23,7 +23,7 @@ sections:
         #gradient_start: '#9ebd13'
         #gradient_end: '#508708'
         #gradient_angle: 180
-        color: white
+        color: '#F7F7F7'
         #image:
         #  # Add your image background to `assets/media/`.
          #filename: green.svg
