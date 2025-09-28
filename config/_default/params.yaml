@@ -8,10 +8,6 @@ appearance:
   mode: system
   color: green
 
-assets:
-  custom_css:
-  - css/custom.css
-
 # SEO
 marketing:
   seo:
