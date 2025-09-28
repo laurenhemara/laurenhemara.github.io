@@ -13,9 +13,6 @@ main:
   - name: Experience
     url: 'experience/'
     weight: 3
-  - name: Gallery
-    url: 'gallery/'
-    weight: 4
 #  - name: Academic
 #    parent: tags
 #    url: tags/academic/
