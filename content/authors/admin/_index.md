@@ -192,6 +192,6 @@ I'm a Postdoctoral Fellow in the [Microbiome Manipulation Lab at The University 
 
  **I'm passionate about understanding microbial evolution and niche adaptation, from laboratory environments to the field — and back again!**
 
- My current research seeks to examine tradeoffs between the production, storage, and field application of microbial bioinoculants for agriculture. 
+ My current research seeks to examine tradeoffs between the production, storage, and field application of microbial bioinoculants for agriculture, as part of the Genome Canada-funded [BENEFIT project](https://www.queensu.ca/microbes-for-agriculture/).
  
  My doctoral research used the kiwifruit pathogen *Pseudomonas syringae* pv. *actinidiae* to understand how plant pathogens evolve during incursions. Using this horticulturally-relevant pathosystem, we examined effector requirements, redundancies, and repertoire refinement across susceptible, tolerant, and resistant hosts.
