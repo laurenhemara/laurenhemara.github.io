@@ -57,11 +57,11 @@ sections:
     content:
       title: ""
       text: ""
-      count: 0
+      count: 3
       filters:
         folders:
           - publication
-        exclude_featured: false
+        exclude_featured: true
     design:
       view: citation
       columns: '1'
