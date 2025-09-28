@@ -12,18 +12,4 @@
   --hb-primary-800: 64 78 27;
   --hb-primary-900: 53 64 24;
   --hb-primary-950: 26 31 11;
-  --hb-nav-bg: #859c3e;
-}
-
-.wg-publications h1,
-.wg-publications h2 {
-  /* Reduced margin to 0 to pull the first item right up to the title. */
-  margin-bottom: 0rem !important; 
-}
-
-/* Optional: Adjust the top padding of the very first list item 
-  if the margin change above wasn't enough.
-*/
-.wg-publications .list-group-item:first-child {
-    padding-top: 0.25rem !important;
 }
