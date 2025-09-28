@@ -63,21 +63,9 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: list
+      view: citation
       columns: '1'
       css_style: 'background-color: #F7F7F7;'
- 
-  - block: markdown
-    id: gallery
-    content:
-      title: Gallery
-      subtitle: ''
-      filters:
-      folders:
-      - flickr
-    design:
-      columns: '1'
-      view: showcase
  
  #- block: collection
   #  id: talks
