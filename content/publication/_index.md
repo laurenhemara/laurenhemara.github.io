@@ -17,5 +17,3 @@ citation_style: apa
 #  caption: ''
 #  image: ''
 ---
-
-<span style="font-size: 75%;">Formal mentees are<span style="text-decoration: underline;">underlined</span>.</span>
