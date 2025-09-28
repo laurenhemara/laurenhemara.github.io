@@ -65,7 +65,7 @@ sections:
     design:
       view: citation
       columns: '1'
-      css_style: 'background-color: #F7F7F7;'
+      #css_style: 'background-color: #F7F7F7;'
  
  #- block: collection
   #  id: talks
