@@ -20,11 +20,10 @@ sections:
       #  url: uploads/resume.pdf
     design:
       background:
-        gradient_start: '#9ebd13'
-        gradient_end: '#508708'
-        gradient_angle: 180
-        css_class: light
-        css_style: 'color: white !important;'
+        #gradient_start: '#9ebd13'
+        #gradient_end: '#508708'
+        #gradient_angle: 180
+        color: white
         #image:
         #  # Add your image background to `assets/media/`.
          #filename: green.svg
