@@ -13,3 +13,21 @@
   --hb-primary-900: 53 64 24;
   --hb-primary-950: 26 31 11;
 }
+
+/* Target internal spacing within a widget.
+  
+  This rule targets H1/H2 headings that are immediately followed by 
+  the widget's main content wrapper (typically a div).
+*/
+.wg-collection h2, 
+.wg-collection h1,
+.wg-collection .section-heading {
+  /* Reduce the bottom margin of the section title */
+  margin-bottom: 0.8rem !important; /* Adjust this value (e.g., 0.5rem for tighter space) */
+}
+
+/* Specific fix for publication titles (which we did earlier, but keeping it generic) */
+.wg-publications h1,
+.wg-publications h2 {
+  margin-bottom: 0rem !important; 
+}

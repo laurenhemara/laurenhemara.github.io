@@ -6,7 +6,10 @@
 # Appearance
 appearance:
   mode: system
-  theme: forest
+
+assets:
+  custom_css:
+  - css/lh-green.css
 
 # SEO
 marketing:
