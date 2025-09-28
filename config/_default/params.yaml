@@ -10,7 +10,7 @@ appearance:
 
 assets:
   custom_css:
-  - css/lh-green.css
+  - css/custom.css
 
 # SEO
 marketing:
