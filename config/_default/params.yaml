@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: custom
+  color: css/custom.css
 
 # SEO
 marketing:
