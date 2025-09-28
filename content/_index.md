@@ -23,8 +23,8 @@ sections:
         gradient_start: '#9ebd13'
         gradient_end: '#508708'
         gradient_angle: 180
-        css_style: 'text-color: #FFFFFF;'
-        color: white
+        css_class: light
+        css_style: 'color: white !important;'
         #image:
         #  # Add your image background to `assets/media/`.
          #filename: green.svg
