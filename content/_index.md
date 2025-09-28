@@ -57,7 +57,7 @@ sections:
     content:
       title: ""
       text: ""
-      count: 3
+      count: 7
       filters:
         folders:
           - publication
