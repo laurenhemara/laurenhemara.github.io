@@ -23,7 +23,7 @@ sections:
         gradient_start: '#9ebd13'
         gradient_end: '#508708'
         gradient_angle: 180
-        text_color_light: true
+        #text_color_light: true
         color: white
         #image:
         #  # Add your image background to `assets/media/`.
@@ -64,8 +64,9 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: citation
+      view: list
       columns: '1'
+      css_style: 'background-color: #F7F7F7;'
   #- block: collection
   #  id: talks
   #  content:
