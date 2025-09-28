@@ -1,0 +1,76 @@
+{{/* Simplified Hugo Blox template to display publication link buttons with icons. */}}
+
+{{ $page := .page }}
+{{ $is_list := .is_list }}
+
+{{/* Class to apply for smaller buttons in list view */}}
+{{ $btn_class := printf "btn btn-outline-primary btn-page-header%s" (if $is_list " btn-sm") }}
+
+{{/* === 1. PDF Link === */}}
+{{ with $page.Params.url_pdf }}
+<a class="{{ $btn_class }}" href="{{ . | relURL }}" target="_blank" rel="noopener">
+  <i class="fa-solid fa-file-pdf"></i> {{ i18n "btn_pdf" }}
+</a>
+{{ end }}
+
+{{/* === 2. DOI Link (Uses Academicons) === */}}
+{{ with $page.Params.doi }}
+<a class="{{ $btn_class }}" href="https://doi.org/{{ . }}" target="_blank" rel="noopener">
+  <i class="ai ai-doi"></i> DOI
+</a>
+{{ end }}
+
+{{/* === 3. Code Link === */}}
+{{ with $page.Params.url_code }}
+<a class="{{ $btn_class }}" href="{{ . | relURL }}" target="_blank" rel="noopener">
+  <i class="fa-solid fa-code"></i> {{ i18n "btn_code" }}
+</a>
+{{ end }}
+
+{{/* === 4. Dataset Link === */}}
+{{ with $page.Params.url_dataset }}
+<a class="{{ $btn_class }}" href="{{ . | relURL }}" target="_blank" rel="noopener">
+  <i class="fa-solid fa-database"></i> {{ i18n "btn_dataset" }}
+</a>
+{{ end }}
+
+{{/* === 5. Slides Link === */}}
+{{ with $page.Params.url_slides }}
+<a class="{{ $btn_class }}" href="{{ . | relURL }}" target="_blank" rel="noopener">
+  <i class="fa-solid fa-person-chalkboard"></i> {{ i18n "btn_slides" }}
+</a>
+{{ end }}
+
+{{/* === 6. Video Link === */}}
+{{ with $page.Params.url_video }}
+<a class="{{ $btn_class }}" href="{{ . | relURL }}" target="_blank" rel="noopener">
+  <i class="fa-brands fa-youtube"></i> {{ i18n "btn_video" }}
+</a>
+{{ end }}
+
+{{/* === 7. PubMed Link (Uses Academicons) === */}}
+{{ with $page.Params.pubmed }}
+<a class="{{ $btn_class }}" href="https://pubmed.ncbi.nlm.nih.gov/{{ . }}" target="_blank" rel="noopener">
+  <i class="ai ai-pubmed"></i> PubMed
+</a>
+{{ end }}
+
+{{/* === 8. Custom Links (Iteration) === */}}
+{{ range $page.Params.links }}
+  {{ $pack := or .icon_pack "fas" }}
+  {{ $pack_prefix := $pack }}
+  {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+    {{ $pack_prefix = "fa" }}
+  {{ end }}
+  {{ $link_url := .url | default "" | safeURL }}
+  
+  {{ $target := "" }}
+  {{ if (urls.Parse .url).Scheme }}
+    {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+  {{ end }}
+  
+  <a class="{{ $btn_class }}" href="{{ $link_url }}" {{ $target | safeHTMLAttr }}>
+    {{ if .icon }}<i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} {{if .name}}mr-1{{end}}"></i>{{end}}
+    {{- with .name }}{{ . | safeHTML }}{{ end -}}
+  </a>
+{{ end }}
