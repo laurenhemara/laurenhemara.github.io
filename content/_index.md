@@ -72,10 +72,12 @@ sections:
     content:
       title: Gallery
       subtitle: ''
-      text: |-
-        {{< gallery album="flickr" >}}
+      filters:
+      folders:
+      - flickr
     design:
       columns: '1'
+      #view: showcase
  
  #- block: collection
   #  id: talks
