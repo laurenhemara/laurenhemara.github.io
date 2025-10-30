@@ -30,10 +30,10 @@ abstract: '*Pseudomonas syringae* pv. actinidiae biovar 3 (Psa3) has decimated k
 summary: Through genome biosurveillance, effector screening, and transcriptomics, we characterised the immune response of resistant Actinidia melanandra to Psa3.
 focal_point: 'Center'
 tags:
+- Effector recognition
 - Pseudomonas syringae pv. actinidiae
 - Genome biosurveillance
 - Type III effectors
-- Effector recognition
 - Kiwifruit
 links:
 - name: URL

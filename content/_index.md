@@ -55,9 +55,9 @@ sections:
 
   - block: collection
     content:
-      title: ""
+      title: Recent Publications
       text: ""
-      count: 3
+      count: 5
       filters:
         folders:
           - publication

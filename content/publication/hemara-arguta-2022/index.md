@@ -2,30 +2,33 @@
 title: Effector loss drives adaptation of Pseudomonas syringae pv. actinidiae biovar
   3 to Actinidia arguta
 authors:
-- admin
-- "Jay Jayaraman"
-- "Paul Sutherland"
-- "Mirco Montefiori"
-- "Saadiah Arshed"
-- "Abhishek Chatterjee"
-- "Ronan Chen"
-- "Mark Andersen"
-- "Carl Mesarich"
-- "Otto van der Linden"
-- "Minsoo Yoon"
-- "Magan Schipper"
-- "Joel Vanneste"
-- "Cyril Brendolise"
-- "Matthew Templeton"
+  - admin
+  - 'Jay Jayaraman'
+  - 'Paul Sutherland'
+  - 'Mirco Montefiori'
+  - 'Saadiah Arshed'
+  - 'Abhishek Chatterjee'
+  - 'Ronan Chen'
+  - 'Mark Andersen'
+  - 'Carl Mesarich'
+  - 'Otto van der Linden'
+  - 'Minsoo Yoon'
+  - 'Magan Schipper'
+  - 'Joel Vanneste'
+  - 'Cyril Brendolise'
+  - 'Matthew Templeton'
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+  - 'Equal contribution'
+  - 'Equal contribution'
 date: '2022-05-01'
 publishDate: '2024-04-17T04:12:55.782702Z'
 publication_types: ["article-journal"]
 publication: '*PLoS Pathogens*'
-publication_short: "*PLoS Path*"
+publication_short: '*PLoS Path*'
 doi: 10.1371/journal.ppat.1010542
+hugoblox:
+  ids:
+    doi: 10.1371/journal.ppat.1010542
 featured: true
 abstract: A pandemic isolate of *Pseudomonas syringae* pv. actinidiae biovar 3 (Psa3)
   has devastated kiwifruit orchards growing cultivars of *Actinidia chinensis*. In contrast,
@@ -46,33 +49,28 @@ abstract: A pandemic isolate of *Pseudomonas syringae* pv. actinidiae biovar 3 (
   into future kiwifruit cultivars.
 summary: Four  avirulence effectors contribute to Psa3 recognition in resistant kiwiberry, identified through genome biosurveillance and effector knockout screening.
 tags:
+- Effector recognition
 - Pseudomonas syringae pv. actinidiae
 - Genome biosurveillance
 - Type III effectors
-- Effector recognition
 - Kiwifruit
 links:
-- name: URL
-  url: "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1010542"
-url_poster: "https://hemara.nz/project/is-mpmi-2021/is-mpmi-2021.pdf"
+  - type: pdf
+    url: ""
+  - type: poster
+    url: https://hemara.nz/project/is-mpmi-2021/is-mpmi-2021.pdf
+
 image:
   caption: 'Angular lesions on *Actinidia arguta* leaves.'
-  focal_point: ""
+  focal_point: ''
   preview_only: false
-#featured: true
-#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-#url_dataset: ''
-#url_project: ''
-#url_slides: ''
-#url_source: ''
-#url_video: ''
+
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [genome-biosurveillance, effector-recognition]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -80,6 +78,4 @@ projects: [genome-biosurveillance, effector-recognition]
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
-
-
 ---
