@@ -24,11 +24,12 @@ date: '2022-05-01'
 publishDate: '2024-04-17T04:12:55.782702Z'
 publication_types: ["article-journal"]
 publication: '*PLoS Pathogens*'
-publication_short: '*PLoS Path*'
 doi: 10.1371/journal.ppat.1010542
 hugoblox:
   ids:
     doi: 10.1371/journal.ppat.1010542
+- name: URL
+  url: 'https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1010542'
 featured: true
 abstract: A pandemic isolate of *Pseudomonas syringae* pv. actinidiae biovar 3 (Psa3)
   has devastated kiwifruit orchards growing cultivars of *Actinidia chinensis*. In contrast,
@@ -54,11 +55,6 @@ tags:
 - Genome biosurveillance
 - Type III effectors
 - Kiwifruit
-links:
-  - type: pdf
-    url: ""
-  - type: poster
-    url: https://hemara.nz/project/is-mpmi-2021/is-mpmi-2021.pdf
 
 image:
   caption: 'Angular lesions on *Actinidia arguta* leaves.'
