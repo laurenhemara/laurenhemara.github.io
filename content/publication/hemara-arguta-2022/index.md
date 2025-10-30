@@ -28,6 +28,7 @@ doi: 10.1371/journal.ppat.1010542
 hugoblox:
   ids:
     doi: 10.1371/journal.ppat.1010542
+links:
 - name: URL
   url: 'https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1010542'
 featured: true
