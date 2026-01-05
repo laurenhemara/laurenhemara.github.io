@@ -5,13 +5,13 @@
 
 main:
   - name: Bio
-    url: '#about'
+    url: 'https://hemara.nz/#about'
     weight: 1
   - name: Publications
-    url: '#papers'
+    url: 'https://hemara.nz/#papers'
     weight: 2
   - name: Experience
-    url: 'experience/'
+    url: 'https://hemara.nz/experience/'
     weight: 3
 #  - name: Academic
 #    parent: tags
