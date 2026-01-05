@@ -7,8 +7,8 @@ authors:
   - Marion Wood
   - Matthew Templeton
   - Jay Jayaraman
-date: '2025-09-01'
-publishDate: '2025-08-01T04:12:55.793852Z'
+date: '2025-11-26'
+publishDate: '2025-11-26T04:12:55.793852Z'
 publication_types:
 - article-journal
 publication: '*The ISME Journal*'
