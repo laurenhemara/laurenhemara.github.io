@@ -127,7 +127,7 @@ work:
     date_end: '2018-03-01'
     summary: |2-
       - Genome biosurveillance of Psa3 in New Zealand kiwifruit orchards.
-      - Awarded a Ngā Toa Ngaki Kai scholarship.
+      - Awarded a Ngā Toa Ngaki Kai Scholarship.
   - position: Digital Communications Internship
     company_name: Waikato Regional Council
     location: Hamilton, New Zealand
