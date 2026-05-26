@@ -91,7 +91,7 @@ work:
     date_end: ''
     summary: Evaluation and evolution of elite agricultural bioinoculants across production landscapes, as part of the [Genome Canada-funded BENEFIT project](https://www.queensu.ca/microbes-for-agriculture/).
   - position: Course Instructor - Environmental Microbiology (EESC30H3)
-   company_name: University of Toronto Scarborough
+    company_name: University of Toronto Scarborough
     company_logo: uoft_shield_crop
     location: Toronto, Canada
     date_start : '2026-01-01'
