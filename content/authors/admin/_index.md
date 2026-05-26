@@ -101,35 +101,26 @@ work:
     company_logo: uoa_logo_shield
     location: Auckland, New Zealand
     date_end: '2023-11-15'
-    date_start: '2022-03-01'
-    summary: 'Graduate Teaching Assistant responsible for delivering online and in-person labs for BIOSCI 220: Quantitative Biology (4 semesters).'
-  - position: Graduate Teaching Assistant - Plant Pathology and Symbiosis (BIOSCI 324)
+    date_start: '2021-07-01'
+  - position: Graduate Teaching Assistant - Plant Pathology & Symbiosis (BIOSCI 324)
     company_name: University of Auckland
     company_logo: uoa_logo_shield
     location: Auckland, New Zealand
     date_end: '2023-07-01'
     date_start: '2023-03-01'
-    summary: 'Graduate Teaching Assistant responsible for lab design and delivery for BIOSCI 324: Plant Pathology and Symbiosis (1 semester).'
-  - position: Teaching Assistant - Quantitative Biology (BIOSCI 220)
-    company_name: University of Auckland
-    company_logo: uoa_logo_shield
-    location: Auckland, New Zealand
-    date_start: '2021-07-01'
-    date_end: '2021-11-01'
-    summary: 'Teaching Assistant supporting BIOSCI 220: Quantitative Biology labs (1 semester).'
-  - position: Internship
+  - position: Digital Communications Internship
     company_name: Waikato Regional Council
     location: Hamilton, New Zealand
     date_start: '2020-11-01'
     date_end: '2021-02-01'
     summary: 'Responsible for managing content across internal and external websites, including the launch of the [environmental data hub](https://www.waikatoregion.govt.nz/environment/envirohub/).'
-  - position: Internship
+  - position: Research Internship
     company_name: Plant & Food Research
     location: Auckland, New Zealand
     date_start: '2018-11-01'
     date_end: '2019-03-01'
     summary: 'Genome biosurveillance of Psa3 in New Zealand kiwifruit orchards.'
-  - position: Internship
+  - position: Research Internship
     company_name: Plant & Food Research
     location: Auckland, New Zealand
     date_start: '2017-11-01'
@@ -137,13 +128,13 @@ work:
     summary: |2-
       - Genome biosurveillance of Psa3 in New Zealand kiwifruit orchards.
       - Awarded a Ngā Toa Ngaki Kai scholarship.
-  - position: Internship
+  - position: Digital Communications Internship
     company_name: Waikato Regional Council
     location: Hamilton, New Zealand
     date_start: '2016-11-01'
     date_end: '2017-02-01'
     summary: 'Responsible for managing content across internal and external websites, including the migration of the flagship [Waikato Regional Council](https://www.waikatoregion.govt.nz/) and [Envirolink](https://www.envirolink.govt.nz/) websites to a new content management system.'
-  - position: Internship
+  - position: Digital Communications Internship
     company_name: Waikato Regional Council
     location: Hamilton, New Zealand
     date_start: '2015-11-01'
