@@ -118,7 +118,7 @@ work:
     date_end: '2021-11-01'
     summary: 'Teaching Assistant supporting BIOSCI 220: Quantitative Biology labs (1 semester).'
   - position: Internship
-   company_name: Waikato Regional Council
+    company_name: Waikato Regional Council
     location: Hamilton, New Zealand
     date_start: '2020-11-01'
     date_end: '2021-02-01'
