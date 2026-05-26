@@ -90,28 +90,35 @@ work:
     date_start : '2024-11-25'
     date_end: ''
     summary: Evaluation and evolution of elite agricultural bioinoculants across production landscapes, as part of the [Genome Canada-funded BENEFIT project](https://www.queensu.ca/microbes-for-agriculture/).
-  - position: BIOSCI 220 Graduate Teaching Assistant
+  - position: Course Instructor - Environmental Microbiology (EESC30H3)
+   company_name: University of Toronto Scarborough
+    company_logo: uoft_shield_crop
+    location: Toronto, Canada
+    date_start : '2026-01-01'
+    date_end: '2026-04-01'
+  - position: Graduate Teaching Assistant - Quantitative Biology (BIOSCI 220)
     company_name: University of Auckland
     company_logo: uoa_logo_shield
     location: Auckland, New Zealand
     date_end: '2023-11-15'
     date_start: '2022-03-01'
     summary: 'Graduate Teaching Assistant responsible for delivering online and in-person labs for BIOSCI 220: Quantitative Biology (4 semesters).'
-  - position: BIOSCI 324 Graduate Teaching Assistant
+  - position: Graduate Teaching Assistant - Plant Pathology and Symbiosis (BIOSCI 324)
     company_name: University of Auckland
     company_logo: uoa_logo_shield
     location: Auckland, New Zealand
     date_end: '2023-07-01'
     date_start: '2023-03-01'
     summary: 'Graduate Teaching Assistant responsible for lab design and delivery for BIOSCI 324: Plant Pathology and Symbiosis (1 semester).'
-  - position: BIOSCI 220 Teaching Assistant
+  - position: Teaching Assistant - Quantitative Biology (BIOSCI 220)
     company_name: University of Auckland
     company_logo: uoa_logo_shield
     location: Auckland, New Zealand
     date_start: '2021-07-01'
     date_end: '2021-11-01'
     summary: 'Teaching Assistant supporting BIOSCI 220: Quantitative Biology labs (1 semester).'
-    company_name: Waikato Regional Council
+  - position: Internship
+   company_name: Waikato Regional Council
     location: Hamilton, New Zealand
     date_start: '2020-11-01'
     date_end: '2021-02-01'
