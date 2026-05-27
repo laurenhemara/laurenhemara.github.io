@@ -96,13 +96,13 @@ work:
     location: Toronto, Canada
     date_start : '2026-01-01'
     date_end: '2026-04-01'
-  - position: Graduate Teaching Assistant - Quantitative Biology (BIOSCI 220)
+  - position: Teaching Assistant - Quantitative Biology (BIOSCI 220)
     company_name: University of Auckland
     company_logo: uoa_logo_shield
     location: Auckland, New Zealand
     date_end: '2023-11-15'
     date_start: '2021-07-01'
-  - position: Graduate Teaching Assistant - Plant Pathology & Symbiosis (BIOSCI 324)
+  - position: Teaching Assistant - Plant Pathology & Symbiosis (BIOSCI 324)
     company_name: University of Auckland
     company_logo: uoa_logo_shield
     location: Auckland, New Zealand
