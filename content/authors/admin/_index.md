@@ -34,6 +34,8 @@ profiles:
     url: https://orcid.org/0000-0003-0316-3545
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/laurenhemara/
+  - icon: academicons/inaturalist
+    url: https://www.inaturalist.org/people/smallbiology
 
 interests:
   - Niche adaptation
