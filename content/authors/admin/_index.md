@@ -26,12 +26,12 @@ bio: Lauren Hemara is a Postdoctoral Fellow at the University of Toronto Scarbor
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: brands/bluesky
-    url: https://bsky.app/profile/hemara.nz
   - icon: academicons/google-scholar
     url: https://scholar.google.co.nz/citations?user=--BGP8oAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0000-0003-0316-3545
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/hemara.nz
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/laurenhemara/
   - icon: academicons/inaturalist
