@@ -38,4 +38,8 @@ tags:
 links:
 - name: URL
   url: "https://onlinelibrary.wiley.com/doi/10.1111/pce.15189"
+
+image:
+  focal_point: 'top'
+  preview_only: false
 ---
