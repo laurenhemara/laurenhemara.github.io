@@ -18,7 +18,7 @@ abstract: 'Microbial inoculants are currently advancing sustainable agriculture 
 summary: In this review, we propose a multi-faceted evaluation approach for inoculant performance, considering both biotic and abiotic aspects of inoculant success.
 tags:
 - Microbial inoculants
-- Soil mirobiology
+- Soil microbiology
 featured: true
 links:
 - name: URL
