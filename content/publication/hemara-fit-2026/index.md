@@ -11,6 +11,7 @@ authors:
   - Terrence Bell
 date: '2026-07-10'
 publishDate: '2026-07-10T04:11:55.793852Z'
+doi: '10.1093/ismeco/ycag190'
 publication_types:
 - article-journal
 publication: '*ISME Communications*'
