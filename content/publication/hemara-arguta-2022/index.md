@@ -31,7 +31,7 @@ hugoblox:
 links:
 - name: URL
   url: 'https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1010542'
-featured: true
+featured: false
 abstract: A pandemic isolate of *Pseudomonas syringae* pv. actinidiae biovar 3 (Psa3)
   has devastated kiwifruit orchards growing cultivars of *Actinidia chinensis*. In contrast,
   *A. arguta* (kiwiberry) is not a host of Psa3. Resistance is mediated via effector-triggered
