@@ -93,8 +93,8 @@ work:
     date_end: ''
     summary: |2-
       - Evaluation and evolution of elite agricultural bioinoculants across production landscapes, as part of the [Genome Canada-funded BENEFIT project](https://www.queensu.ca/microbes-for-agriculture/).
-      - Awarded an Early Career Award by the [International Phytobiomes Alliance](https://phytobiomesalliance.org/).
       - Awarded a Postdoctoral Competitive Research Award by the University of Toronto, for exceptional postdoctoral scholars to develop and lead an independent research agenda.
+      - Awarded an Early Career Award by the [International Phytobiomes Alliance](https://phytobiomesalliance.org/).
       - Awarded an ISME20 Travel Grant by the [International Society for Microbial Ecology](https://isme-microbes.org/).
       - Awarded a Cultivating Resilience Travel Grant by the [Agricultural Genomics Action Centre](https://climatesmartagrifood.ca/ag-act-agricultural-genomics-action-centre/).
   - position: Course Instructor - Environmental Microbiology (EESC30H3)
